@@ -23,7 +23,7 @@ Tutoriel téléchargement/installation Cyberpunk 2077
 
 ## Où l'acheter ?
 
-### GOG
+### <em>GOG</em>
 
 Vous pouvez l'achetez sur GOG et en possédant le launcher GOG Galaxy disponible sur le même site.
 
@@ -31,7 +31,7 @@ Vous pouvez l'achetez sur GOG et en possédant le launcher GOG Galaxy disponible
 - Vous créer un compte
 - Ajouter au panier et de l'acheter.
 
-### STEAM
+### <em>STEAM</em>
 
 Vous pouvez aussi l'acheter sur Steam, une plateforme très connu pour tous les jeux qu'elle propose.
 
@@ -42,7 +42,7 @@ Vous pouvez aussi l'acheter sur Steam, une plateforme très connu pour tous les 
 - Recherchez "Cyberpunk 2077
 - Ajoutez-le au panier et achetez-le.
 
-### Epic Games
+### <em>Epic Games</em>
 
 Enfin, Epic Games vous offre un launcher sur lequel se trouve aussi Cyberpunk 2077.
 
