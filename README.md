@@ -3,7 +3,7 @@ Tutoriel téléchargement/installation Cyberpunk 2077
 
 ## Configuration nécessaire :
 
-### Configuration minimale :
+### <em>Configuration minimale :</em>
 
 - Système d'exploitation Windows 7 64-bits/ Windows 10 64-bits
 - Processeur : Intel Core i5-3570K / AMD Ryzen FX-8310
@@ -12,7 +12,7 @@ Tutoriel téléchargement/installation Cyberpunk 2077
 - RAM : 8GB
 - Disque dur : HDD 70 GB libre / SSD recommandé
 
-### Configuration recommandé :
+### <em>Configuration recommandé :</em>
 
 - Système d'exploitation Windows 10 64-bits
 - Processeur : Intel Core i7-4790 / AMD Ryzen 3 3200G
